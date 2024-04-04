@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/c5/0c/34/c50c346773b408911d170a7a20e5c468.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    font-family: "Poppins",Poppons-medium;
+    color: white;
+}
+h2{
+    font-family: "Poppins",Poppons-medium;
+    letter-spacing: 1px;
+            text-transform: uppercase;
+            text-align: center;
+            background: #AAB9C8;
+            color: white;
+            border-radius: 10px;
+            padding: 3px 10px;
+            cursor: pointer;
+}
+
+video {
+    border-radius: 5px;
+    width: 800px;
+}
+
